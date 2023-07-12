@@ -788,3 +788,44 @@ a:hover {
     font-size: 20px;
     font-weight: 600;
 }
+
+/* ------ Men list item CSS ---- */
+.men-list-body{
+    padding: 40px 80px;
+}
+.men-list-body .list-brand{
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.men-list-body .list-brand ul li{
+    list-style-type: none;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    font-size: 13px;
+}
+.men-list-body li a{
+    text-decoration: none;
+}
+.men-list-body li a:hover{
+    color: #000;
+    text-decoration: underline;
+}
+.men-list-body h4{
+    font-size: 20px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.men-list-body .item h3{
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+}
+.men-body-text .text-title p{
+    font-size: 18px;
+    font-weight: 700;
+    padding: 20px 0 0;
+}
+.men-body-text .text-content span{
+    font-size: 15px;
+    opacity: 1;
+}
